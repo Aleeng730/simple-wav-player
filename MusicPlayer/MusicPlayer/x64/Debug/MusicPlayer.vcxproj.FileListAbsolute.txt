@@ -1,0 +1,4 @@
+C:\Users\aling\source\repos\MusicPlayer\MusicPlayer\x64\Debug\MusicPlayer.vcxproj.AssemblyReference.cache
+C:\Users\aling\source\repos\MusicPlayer\MusicPlayer\x64\Debug\MusicPlayer.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\aling\source\repos\MusicPlayer\MusicPlayer\x64\Debug\MusicPlayer.MyForm.resources
+C:\Users\aling\source\repos\MusicPlayer\MusicPlayer\x64\Debug\MusicPlayer.vcxproj.GenerateResource.cache
